@@ -22,10 +22,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ### 🏗️ Projects & Interests
-- **[Smart Waste Segregation and Recycling Ecosystem](#)** ♻️  
-- **[Smart Sign Language Interpreter](#)** 👐  
-- **[AI-Powered Assistant - Cypher](https://cypheraiassistant.netlify.app/)** 🎓  
-- **[Full-Stack Web Development Projects](#)** 🌐  
+- **Smart Waste Segregation and Recycling Ecosystem** ♻️  
+- **Smart Sign Language Interpreter** 👐  
+- **AI-Powered Assistant - [Cypher](https://cypheraiassistant.netlify.app/)** 🎓  
+- **Full-Stack Web Development Projects** 🌐  
 
 
 <h3 align="left">Connect with me:</h3>
